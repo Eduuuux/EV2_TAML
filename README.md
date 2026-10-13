@@ -4,6 +4,7 @@
 **Asignatura**: Técnicas Avanzadas de Machine Learning I (Sigla: TLY1102 / TLY1101)  
 **Evaluación**: Evaluación Parcial N°2 — Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)  
 **Notebook Principal**: [`notebooks/Sign_Language_MNIST_CNN.ipynb`](file:///c:/Users/Eduardo/Desktop/EV2_TAML/notebooks/Sign_Language_MNIST_CNN.ipynb) *(o en la raíz del repositorio)*  
+**Repositorio GitHub**: [https://github.com/Eduuuux/EV2_TAML](https://github.com/Eduuuux/EV2_TAML)  
 **Framework**: TensorFlow 2.x / Keras (sin capas de regularización, alineado estrictamente con la rúbrica)  
 **Variante Específica del Equipo**: 10 clases del alfabeto dactilológico ASL (`A, B, C, D, E, I, L, M, N, O`) con semilla fija `seed = 42069`.
 
