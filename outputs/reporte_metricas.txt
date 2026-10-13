@@ -1,0 +1,26 @@
+REPORTE DE EVALUACIÓN Y KPIS - TLY1101 / TLY1102 DUOC UC
+Mejor Modelo Seleccionado: Pequeña (128)
+Accuracy Global: 89.77% (Meta >= 85% -> CUMPLIDO)
+F1-Score Macro:  0.8854 (Meta >= 0.80 -> CUMPLIDO)
+Precision Macro: 88.90%
+Recall Macro:    88.81% (Meta >= 85% -> CUMPLIDO)
+Latencia Inferencia: 0.0679 ms/muestra (Meta <= 10 ms -> CUMPLIDO)
+
+Reporte de Clasificación por Letra (Test Set):
+
+              precision    recall  f1-score   support
+
+           A       0.81      1.00      0.89       331
+           B       0.97      0.95      0.96       432
+           C       1.00      1.00      1.00       310
+           D       0.84      0.94      0.89       245
+           E       0.95      1.00      0.97       498
+           I       0.92      0.81      0.86       288
+           L       0.90      1.00      0.95       209
+           M       0.94      0.87      0.91       394
+           N       0.66      0.57      0.61       291
+           O       0.89      0.75      0.81       246
+
+    accuracy                           0.90      3244
+   macro avg       0.89      0.89      0.89      3244
+weighted avg       0.90      0.90      0.89      3244
